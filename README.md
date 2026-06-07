@@ -25,6 +25,26 @@
 
 Учусь на **3 курсе Финансового университета при Правительстве РФ** по направлению **«Прикладная математика и информатика»**, профиль **«Машинное обучение»**. Большинство хакатонных проектов мы делаем вместе с нашей командой **R² negative**.
 
+## Технический стек
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,pandas,numpy,opencv,huggingface,kaggle,googlecolab,n8n,cursor,chatgpt,fastapi,docker,git,github,gitlab,postgres,redis,linux,react,js,html,css,tailwind,jupyter&perline=16" alt="Python, PyTorch, scikit-learn, Pandas, NumPy, OpenCV, HuggingFace, Kaggle, Google Colab, n8n, Cursor, ChatGPT, FastAPI, Docker, Git, GitHub, GitLab, PostgreSQL, Redis, Linux, React, JavaScript, HTML5, CSS3, TailwindCSS, Jupyter" />
+</p>
+
+**Фокусные направления**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Products-20A7F3?style=for-the-badge" alt="AI Products" />
+  <img src="https://img.shields.io/badge/Product_Engineering-0E75B6?style=for-the-badge" alt="Product Engineering" />
+  <img src="https://img.shields.io/badge/Computer_Vision-20A7F3?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NLP%2FSpeech-10A37F?style=for-the-badge" alt="NLP and Speech" />
+  <img src="https://img.shields.io/badge/LLM%2FRAG-412991?style=for-the-badge" alt="LLM and RAG" />
+  <br/>
+  <img src="https://img.shields.io/badge/Hackathon_MVP-FFD700?style=for-the-badge" alt="Hackathon MVP" />
+  <img src="https://img.shields.io/badge/AIOps-FF6B00?style=for-the-badge" alt="AIOps" />
+  <img src="https://img.shields.io/badge/MLOps-2088FF?style=for-the-badge" alt="MLOps" />
+</p>
+
 ## Чем я полезен
 
 <details>
@@ -38,29 +58,6 @@
 | **AI-инструменты в инженерной работе** | эффективно использовать AI-инструменты для исследования задачи, генерации гипотез, ускорения разработки, документации и demo-flow |
 | **Backend / MLOps** | FastAPI, Docker, CI/CD, Git, GitLab pipelines, мониторинг, воспроизводимые окружения и упаковка решений |
 | **Продуктовая разработка** | быстро собирать рабочий прототип, понятный интерфейс, презентацию и демонстрационный сценарий под бизнес-задачу |
-
-</details>
-
-## Технический стек
-
-<details>
-<summary><strong>Посмотреть подробнее</strong></summary>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,pandas,numpy,opencv,huggingface,kaggle,googlecolab,n8n,cursor,chatgpt,fastapi,docker,git,github,gitlab,postgres,redis,linux,react,js,html,css,tailwind,jupyter&perline=16" alt="Python, PyTorch, scikit-learn, Pandas, NumPy, OpenCV, HuggingFace, Kaggle, Google Colab, n8n, Cursor, ChatGPT, FastAPI, Docker, Git, GitHub, GitLab, PostgreSQL, Redis, Linux, React, JavaScript, HTML5, CSS3, TailwindCSS, Jupyter" />
-</p>
-
-**Фокусные направления**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer_Vision-20A7F3?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/NLP%2FSpeech-10A37F?style=for-the-badge" alt="NLP and Speech" />
-  <img src="https://img.shields.io/badge/LLM%2FRAG-412991?style=for-the-badge" alt="LLM and RAG" />
-  <img src="https://img.shields.io/badge/AIOps-FF6B00?style=for-the-badge" alt="AIOps" />
-  <img src="https://img.shields.io/badge/MLOps-2088FF?style=for-the-badge" alt="MLOps" />
-  <img src="https://img.shields.io/badge/Hackathon_MVP-FFD700?style=for-the-badge" alt="Hackathon MVP" />
-  <img src="https://img.shields.io/badge/Product-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-20A7F3?style=for-the-badge" alt="Продуктовая разработка" />
-</p>
 
 </details>
 
