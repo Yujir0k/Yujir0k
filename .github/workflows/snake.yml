@@ -26,8 +26,8 @@ jobs:
       - name: Commit generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: chore: update contribution snake
+          commit_message: "chore: update contribution snake"
           file_pattern: assets/github-contribution-grid-snake*.svg
           commit_user_name: Igor Borisov
           commit_user_email: bio24082005@mail.ru
-          commit_author: Igor Borisov <bio24082005@mail.ru>
+          commit_author: "Igor Borisov <bio24082005@mail.ru>"
