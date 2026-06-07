@@ -94,13 +94,38 @@
 ---
 
 <details>
-<summary><strong>Short English Summary</strong></summary>
+<summary><strong>English version</strong></summary>
 
-I am **Igor Borisov (Yujir0k)**, a 3rd-year Applied Mathematics and Computer Science student at the Financial University under the Government of the Russian Federation, specializing in Machine Learning.
+## Igor Borisov (Yujir0k)
 
-I build applied ML/AI products across Computer Vision, NLP/Speech, AIOps, forecasting, CI/CD automation and LLM-assisted workflows. My focus is turning ideas into working products with models, APIs, interfaces, reproducible environments and clear demos.
+I am an **ML/AI specialist** and a 3rd-year Applied Mathematics and Computer Science student at the Financial University under the Government of the Russian Federation, specializing in Machine Learning.
 
-Hackathon highlights include 1st place at ReVoice25, 2nd place at Rosneft Student Hackathon / Reklamoton / WILDHACK, 3rd place at AtomikHack 3.0 and the First City Hackathon of Obninsk, plus several finalist and special-prize results.
+I build end-to-end AI products: from problem analysis and ML hypotheses to models, APIs, interfaces, reproducible launch and finished product experience. Most of my hackathon projects are built together with my team **R² negative**.
+
+### Focus Areas
+
+🥇 **Main focus:** AI products and product engineering  
+**Technical areas:** Computer Vision, NLP/Speech, LLM/RAG  
+**Additional areas:** Hackathon MVPs, MLOps, AIOps
+
+### How I Build AI Products
+
+**I start with the real problem.** I care about understanding what we are solving, where the data has value and what should be useful for the end user.
+
+**I turn ML into products.** I do not stop at notebooks: I build models, APIs, interfaces and runnable applications that can be opened, tested and presented.
+
+**I like complex real-world tasks.** I especially enjoy CV, NLP/Speech and LLM projects where domain understanding and non-obvious technical choices matter.
+
+**I use AI as a development multiplier.** Codex, Claude Code, Gemini, n8n, Kaggle and Colab help me research faster, test ideas, write code, work with data and turn prototypes into products.
+
+**I work well in hackathon tempo.** I can quickly identify what matters, build an MVP, package it into a clear product and explain why the solution is useful.
+
+### Hackathon Highlights
+
+🥇 **1st place** — ReVoice25, Lenta Tech Life Hack  
+🥈 **2nd place** — WILDHACK, Rosneft Student Hackathon, Reklamoton  
+🥉 **3rd place** — First City Hackathon of Obninsk, AtomikHack 3.0  
+🏅 **4th place, finals and special prizes** — T1, Roseltorg, MORE.Tech, FINAM x HSE AI Trade Hack, Best Hack, MGPU DATA Hackathon
 
 </details>
 
