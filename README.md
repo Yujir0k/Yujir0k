@@ -2,7 +2,9 @@
   <img src="assets/profile-avatar.png" width="270" alt="Игорь Борисов (Yujir0k)" />
 </p>
 
-<h1 align="center">Игорь Борисов (Yujir0k)</h1>
+<p align="center">
+  <img src="assets/profile-name.svg" width="560" alt="Игорь Борисов (Yujir0k)" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=20A7F3&center=true&vCenter=true&width=900&height=58&lines=ML%2FAI-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%3BComputer+Vision+%E2%80%A2+NLP%2FSpeech+%E2%80%A2+LLM%3B%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B5+AI-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B%3B%D0%A0%D0%B5%D1%88%D0%B0%D1%8E+%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5+%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%3BR%C2%B2+negative+%C2%B7+hackathon+projects" alt="Typing intro" />
