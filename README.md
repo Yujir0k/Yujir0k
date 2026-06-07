@@ -47,14 +47,76 @@
 <summary><strong>Посмотреть подробнее</strong></summary>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,fastapi,docker,git,github,postgres,react,js,html,css,tailwind" alt="Technical stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,fastapi,docker,git,github,gitlab,postgres,redis,linux,nginx,react,js,html,css,tailwind" alt="Core technical stack icons" />
 </p>
 
+**AI-инструменты и workflow**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Codex-20A7F3?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+</p>
+
+**ML / Data**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/LLM%2FAI-Tools-20A7F3?style=for-the-badge" alt="LLM and AI tools" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" alt="CatBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+**CV / NLP / LLM**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Albumentations-00A3FF?style=for-the-badge" alt="Albumentations" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS" />
+  <img src="https://img.shields.io/badge/RAG-20A7F3?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Whisper%2FSpeech-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper and Speech" />
+  <img src="https://img.shields.io/badge/OCR-FF6B00?style=for-the-badge" alt="OCR" />
+</p>
+
+**Backend / API / Product**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge" alt="Gradio" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
+</p>
+
+**Infra / DevOps**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+**Фокусные направления**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer_Vision-20A7F3?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NLP%2FSpeech-10A37F?style=for-the-badge" alt="NLP and Speech" />
+  <img src="https://img.shields.io/badge/LLM%2FRAG-412991?style=for-the-badge" alt="LLM and RAG" />
+  <img src="https://img.shields.io/badge/AIOps-FF6B00?style=for-the-badge" alt="AIOps" />
+  <img src="https://img.shields.io/badge/MLOps-2088FF?style=for-the-badge" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Hackathon_MVP-FFD700?style=for-the-badge" alt="Hackathon MVP" />
+  <img src="https://img.shields.io/badge/Product-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-20A7F3?style=for-the-badge" alt="Продуктовая разработка" />
 </p>
 
 </details>
