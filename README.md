@@ -26,10 +26,10 @@
 | Результат | Хакатон / организатор | Задача / кейс | Что сделали | Репозиторий |
 |---|---|---|---|---|
 | **1 место** | MTУСИ ReVoice25 | Восстановление качества искаженной речи | Pipeline для улучшения речи с фокусом на естественное звучание и экспертную MOS-оценку | [ReVoice25-R2negative-1st-place](https://github.com/Yujir0k/ReVoice25-R2negative-1st-place) |
+| **2 место** | ML-хакатон WILDHACK / RWB | Прогноз отгрузок и диспетчеризация транспорта | ML-платформа для прогнозирования, оценки надежности и поддержки решений диспетчера | [RWB_Flow](https://github.com/Yujir0k/RWB_Flow) |
 | **1 место по предварительной оценке жюри** | Lenta Tech Life Hack | Контроль полки по видео прохода робота | CV/OCR-сервис для распознавания товаров, ценников, скидок, barcode/QR и экспорта результата в CSV | [Polka_pod_kontrolem](https://github.com/Yujir0k/Polka_pod_kontrolem) |
 | **2 место** | Студенческий хакатон Роснефти | Computer Vision, semantic segmentation | SegFormer-решение для сегментации карт месторождений на 40 классов | [Oilfield-Segmentation](https://github.com/Yujir0k/Oilfield-Segmentation) |
 | **2 место** | Рекламотон 2025 | Интерактивный конструктор AI-персонажей | Web-продукт для генерации AI-персонажей, аватаров и ролевого общения | [Reklamoton-2025_Fabrica-Geroev](https://github.com/Yujir0k/Reklamoton-2025_Fabrica-Geroev) |
-| **2 место** | ML-хакатон WILDHACK / RWB | Прогноз отгрузок и диспетчеризация транспорта | ML-платформа для прогнозирования, оценки надежности и поддержки решений диспетчера | [RWB_Flow](https://github.com/Yujir0k/RWB_Flow) |
 | **3 место** | Первый городской хакатон Обнинска | Кейс №3: AI-анализ здоровья полей по спутниковым снимкам | Платформа для мониторинга сельхозполей по Sentinel-2 с AI-агрономом | [R2-Farmer](https://github.com/Yujir0k/R2-Farmer) |
 | **3 место** | АтомикХак 3.0 | ИИ-анализатор журналов событий приложений | AIOps-платформа для анализа логов, прогноза инцидентов и playbook-рекомендаций | [AtomikAIOps](https://github.com/Yujir0k/AtomikAIOps) |
 | **4 место** | Хакатон T1 Москва | Self-Deploy: CI/CD без DevOps | CLI-продукт для автоматической генерации CI/CD pipeline без ручной DevOps-настройки | [AutoPipe-T1](https://github.com/Yujir0k/AutoPipe-T1) |
