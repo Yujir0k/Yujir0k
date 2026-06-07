@@ -59,14 +59,6 @@
 
 </details>
 
-## GitHub-активность
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="assets/github-contribution-grid-snake.svg" />
-</picture>
-
 ## Хакатоны и результаты
 
 В хакатонах я фокусируюсь на задачах, где важны и ML-качество, и инженерная сборка продукта: модель, интерфейс, воспроизводимый запуск, понятный demo-flow и защита решения.
@@ -133,3 +125,11 @@ I build applied ML/AI products across Computer Vision, NLP/Speech, AIOps, foreca
 Hackathon highlights include 1st place at ReVoice25, 2nd place at Rosneft Student Hackathon / Reklamoton / WILDHACK, 3rd place at AtomikHack 3.0 and the First City Hackathon of Obninsk, plus several finalist and special-prize results.
 
 </details>
+
+## GitHub-активность
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="assets/github-contribution-grid-snake.svg" />
+</picture>
