@@ -1,12 +1,28 @@
-# Игорь Борисов (Yujir0k)
+<p align="center">
+  <img src="assets/profile-avatar.png" width="270" alt="Игорь Борисов (Yujir0k)" />
+</p>
 
-**ML/AI-специалист, разработчик прикладных AI-решений, студент Финансового университета**
+<h1 align="center">Игорь Борисов (Yujir0k)</h1>
 
-Я занимаюсь машинным обучением, созданием AI-продуктов и активно участвую в хакатонах. Мне нравится доводить идеи от постановки задачи и ML-гипотез до работающего продукта: с моделью, понятным интерфейсом, backend/API, воспроизводимым запуском и убедительной демонстрацией.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=20A7F3&center=true&vCenter=true&width=900&height=58&lines=ML%2FAI-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%3BComputer+Vision+%E2%80%A2+NLP%2FSpeech+%E2%80%A2+LLM%3B%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E+%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B5+AI-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B%3B%D0%A0%D0%B5%D1%88%D0%B0%D1%8E+%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5+%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%3BR%C2%B2+negative+%C2%B7+hackathon+projects" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yujir0k&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Hackathon_results-15%2B-20A7F3?style=for-the-badge" alt="Hackathon results" />
+  <img src="https://img.shields.io/badge/Top_places-10%2B-FFD700?style=for-the-badge" alt="Top places" />
+</p>
+
+<p align="center">
+  <strong>ML/AI-специалист, разработчик прикладных AI-решений, студент Финансового университета</strong>
+</p>
+
+Я занимаюсь машинным обучением, созданием AI-продуктов и активно участвую в хакатонах. Мне интересно превращать сложную постановку в работающий продукт: разобраться в домене, проверить ML-гипотезы, собрать модель, API, интерфейс и воспроизводимый запуск, а затем показать ценность решения без лишних объяснений.
 
 Больше всего меня привлекают сложные реальные задачи, где нужно не просто применить готовый алгоритм, а разобраться в предметной области, найти нестандартный ход и собрать решение, которое можно показать пользователю. Особенно интересны направления **Computer Vision**, **NLP/Speech**, **LLM/AI-инструменты** и продуктовая разработка.
 
-Учусь на **3 курсе Финансового университета при Правительстве РФ** по направлению **«Прикладная математика и информатика»**, профиль **«Машинное обучение»**. Большинство хакатонных проектов мы делаем вместе нашей командой **R² negative**.
+Учусь на **3 курсе Финансового университета при Правительстве РФ** по направлению **«Прикладная математика и информатика»**, профиль **«Машинное обучение»**. Большинство хакатонных проектов мы делаем вместе с нашей командой **R² negative**.
 
 <p align="center">
   <a href="https://t.me/Igorechek_Borisov"><img src="https://img.shields.io/badge/Telegram-@Igorechek_Borisov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -35,15 +51,26 @@
 <details>
 <summary><strong>Посмотреть подробнее</strong></summary>
 
-| Направление | Инструменты |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **ML Core** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **CV / NLP / LLM** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) |
-| **Backend & Infra** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| **Frontend / Product** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,fastapi,docker,git,github,postgres,react,js,html,css,tailwind" alt="Technical stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/LLM%2FAI-Tools-20A7F3?style=for-the-badge" alt="LLM and AI tools" />
+</p>
 
 </details>
+
+## GitHub-активность
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="assets/github-contribution-grid-snake.svg" />
+</picture>
 
 ## Хакатоны и результаты
 
