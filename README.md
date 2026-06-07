@@ -87,18 +87,6 @@
 
 </details>
 
-## Сейчас мне интересны
-
-<details>
-<summary><strong>Посмотреть подробнее</strong></summary>
-
-- Computer Vision и мультимодальные решения
-- NLP / Speech / lip reading
-- LLM-продукты и AI-агенты
-- MLOps, AIOps и production-ready ML-решения
-- Финтех, ритейл, логистика и промышленная аналитика
-
-</details>
 
 ---
 
