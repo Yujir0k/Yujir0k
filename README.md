@@ -28,7 +28,10 @@
 ## Технический стек
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,pandas,numpy,opencv,huggingface,kaggle,googlecolab,n8n,cursor,chatgpt,fastapi,docker,git,github,gitlab,postgres,redis,linux,react,js,html,css,tailwind,jupyter&perline=16" alt="Python, PyTorch, scikit-learn, Pandas, NumPy, OpenCV, HuggingFace, Kaggle, Google Colab, n8n, Cursor, ChatGPT, FastAPI, Docker, Git, GitHub, GitLab, PostgreSQL, Redis, Linux, React, JavaScript, HTML5, CSS3, TailwindCSS, Jupyter" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,pandas,numpy,opencv,huggingface,kaggle,googlecolab,n8n,cursor,chatgpt,fastapi&perline=13" alt="Python, PyTorch, scikit-learn, Pandas, NumPy, OpenCV, HuggingFace, Kaggle, Google Colab, n8n, Cursor, ChatGPT, FastAPI" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,gitlab,postgres,redis,linux,react,js,html,css,tailwind,jupyter&perline=13" alt="Docker, Git, GitHub, GitLab, PostgreSQL, Redis, Linux, React, JavaScript, HTML5, CSS3, TailwindCSS, Jupyter" />
 </p>
 
 **Фокусные направления**
