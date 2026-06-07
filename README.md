@@ -34,7 +34,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab,postgres,redis,linux,react,js,html,css,tailwind,jupyter&perline=10" alt="GitLab, PostgreSQL, Redis, Linux, React, JavaScript, HTML5, CSS3, TailwindCSS, Jupyter" />
 </p>
 
-**Фокусные направления**
+## Фокусные направления
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Products-20A7F3?style=for-the-badge" alt="AI Products" />
