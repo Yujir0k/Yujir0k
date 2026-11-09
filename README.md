@@ -23,7 +23,7 @@
 
 Больше всего меня привлекают сложные реальные задачи, где нужно не просто применить готовый алгоритм, а разобраться в предметной области, найти нестандартный ход и собрать решение, которое можно показать пользователю. Особенно интересны направления **Computer Vision**, **NLP/Speech**, **LLM/AI-инструменты** и продуктовая разработка.
 
-Учусь на **3 курсе Финансового университета при Правительстве РФ** по направлению **«Прикладная математика и информатика»**, профиль **«Машинное обучение»**. Большинство хакатонных проектов мы делаем вместе с нашей командой **R² negative**.
+Учусь на **4 курсе Финансового университета при Правительстве РФ** по направлению **«Прикладная математика и информатика»**, профиль **«Машинное обучение»**. Большинство хакатонных проектов мы делаем вместе с нашей командой **R² negative**.
 
 ## Технический стек
 
@@ -104,7 +104,7 @@
 
 ## Igor Borisov (Yujir0k)
 
-I am an **ML/AI specialist** and a 3rd-year Applied Mathematics and Computer Science student at the Financial University under the Government of the Russian Federation, specializing in Machine Learning.
+I am an **ML/AI specialist** and a 4th-year Applied Mathematics and Computer Science student at the Financial University under the Government of the Russian Federation, specializing in Machine Learning.
 
 I build end-to-end AI products: from problem analysis and ML hypotheses to models, APIs, interfaces, reproducible launch and finished product experience. Most of my hackathon projects are built together with my team **R² negative**.
 
