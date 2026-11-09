@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>ML/AI-специалист, разработчик прикладных AI-решений, студент Финансового университета</strong>
+  <strong>ML/AI-специалист · Финансовый университет · создаю AI-продукты end-to-end и решаю задачи на хакатонах</strong>
 </p>
 
 <p align="center">
@@ -19,9 +19,7 @@
 </p>
 
 
-Я занимаюсь машинным обучением, созданием AI-продуктов и активно участвую в хакатонах. Мне нравится превращать сложные задачи в работающие AI-решения: быстро разбираться в предметной области, проверять гипотезы, собирать модель, backend/API, интерфейс и довести решение до состояния готового продукта.
-
-Больше всего меня привлекают сложные реальные задачи, где нужно не просто применить готовый алгоритм, а разобраться в предметной области, найти нестандартный ход и собрать решение, которое можно показать пользователю. Особенно интересны направления **Computer Vision**, **NLP/Speech**, **LLM/AI-инструменты** и продуктовая разработка.
+Я занимаюсь машинным обучением, созданием AI-продуктов и активно участвую в хакатонах. Мне нравится решать сложные практические задачи: разбираться в данных, исследовать разные подходы и создавать решения, которые можно применить в реальной жизни. Мне интересно не только работать с моделями, но и превращать идеи в полноценные продукты.
 
 Учусь на **4 курсе Финансового университета при Правительстве РФ** по направлению **«Прикладная математика и информатика»**, профиль **«Машинное обучение»**. Большинство хакатонных проектов мы делаем вместе с нашей командой **R² negative**.
 
@@ -63,7 +61,7 @@
 Ключевые результаты:
 
 🥇 **1 место** — ReVoice25, Lenta Tech Life Hack  
-🥈 **2 место** — Лидеры цифровой трансформации (Билайн Бизнес), КосмоХакатон в Ростове, WILDHACK, хакатон Роснефти, Рекламотон  
+🥈 **2 место** — Лидеры цифровой трансформации (Билайн Бизнес), КосмоХакатон (Ростов), WILDHACK, хакатон Роснефти, Рекламотон  
 🥉 **3 место** — ИИ-хакатон Tutu, Первый городской хакатон Обнинска, АтомикХак 3.0  
 🏅 **4 место, финалы и спецпризы** — КосмоХакатон (Москва), Kodik Launchpad («Выбор Kodik»), T1, Росэлторг, MORE.Tech, FINAM x HSE AI Trade Hack, Best Hack, DATA-Хакатон МГПУ
 
@@ -104,9 +102,9 @@
 
 ## Igor Borisov (Yujir0k)
 
-I am an **ML/AI specialist** and a 4th-year Applied Mathematics and Computer Science student at the Financial University under the Government of the Russian Federation, specializing in Machine Learning.
+I work with machine learning, build AI products, and actively participate in hackathons. I enjoy solving complex practical problems: exploring data, researching different approaches, and creating solutions that can be applied in real life. I am interested not only in working with models but also in turning ideas into complete products.
 
-I build end-to-end AI products: from problem analysis and ML hypotheses to models, APIs, interfaces, reproducible launch and finished product experience. Most of my hackathon projects are built together with my team **R² negative**.
+I am a **4th-year student** at the Financial University under the Government of the Russian Federation, studying Applied Mathematics and Computer Science with a specialization in Machine Learning. Most of my hackathon projects are built together with my team **R² negative**.
 
 ### Focus Areas
 
