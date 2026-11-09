@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://t.me/Igorechek_Borisov"><img src="https://img.shields.io/badge/Telegram-@Igorechek_Borisov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:bio24082005@mail.ru"><img src="https://img.shields.io/badge/Email-bio24082005%40mail.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:bio24082005@gmail.com"><img src="https://img.shields.io/badge/Email-bio24082005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.kaggle.com/yujir0k"><img src="https://img.shields.io/badge/Kaggle-yujir0k-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
