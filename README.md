@@ -99,17 +99,52 @@
 <details>
 <summary><strong>English version</strong></summary>
 
-## Igor Borisov (Yujir0k)
+<p align="center">
+  <img src="assets/profile-avatar.png" width="270" alt="Igor Borisov (Yujir0k)" />
+</p>
+
+<h2 align="center">Igor Borisov (Yujir0k)</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=20A7F3&center=true&vCenter=true&width=900&height=58&lines=ML%2FAI+Specialist%3BComputer+Vision+%E2%80%A2+NLP%2FSpeech+%E2%80%A2+LLM%3BBuilding+AI+Products+End-to-End%3BSolving+Real-World+Problems%3BR%C2%B2+negative+%C2%B7+Hackathon+Projects" alt="ML/AI specialist building AI products" />
+</p>
+
+<p align="center">
+  <strong>ML/AI specialist · Financial University · building AI products end-to-end and solving hackathon challenges</strong>
+</p>
+
+<p align="center">
+  <a href="https://t.me/Igorechek_Borisov"><img src="https://img.shields.io/badge/Telegram-@Igorechek_Borisov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:bio24082005@gmail.com"><img src="https://img.shields.io/badge/Email-bio24082005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.kaggle.com/yujir0k"><img src="https://img.shields.io/badge/Kaggle-yujir0k-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+</p>
 
 I work with machine learning, build AI products, and actively participate in hackathons. I enjoy solving complex practical problems: exploring data, researching different approaches, and creating solutions that can be applied in real life. I am interested not only in working with models but also in turning ideas into complete products.
 
 I am a **4th-year student** at the Financial University under the Government of the Russian Federation, studying Applied Mathematics and Computer Science with a specialization in Machine Learning. Most of my hackathon projects are built together with my team **R² negative**.
 
+### Tech Stack
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,pandas,numpy,opencv,huggingface,kaggle,googlecolab,n8n,cursor,chatgpt,fastapi,docker,git,github&perline=16" alt="Python, PyTorch, scikit-learn, Pandas, NumPy, OpenCV, Hugging Face, Kaggle, Google Colab, n8n, Cursor, ChatGPT, FastAPI, Docker, Git, GitHub" />
+</p>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab,postgres,redis,linux,react,js,html,css,tailwind,jupyter&perline=10" alt="GitLab, PostgreSQL, Redis, Linux, React, JavaScript, HTML5, CSS3, Tailwind CSS, Jupyter" />
+</p>
+
 ### Focus Areas
 
-🥇 **Main focus:** AI products and product engineering  
-**Technical areas:** Computer Vision, NLP/Speech, LLM/RAG  
-**Additional areas:** Hackathon MVPs, MLOps, AIOps
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Products-20A7F3?style=for-the-badge" alt="AI Products" />
+  <img src="https://img.shields.io/badge/Product_Engineering-0E75B6?style=for-the-badge" alt="Product Engineering" />
+  <img src="https://img.shields.io/badge/Computer_Vision-20A7F3?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NLP%2FSpeech-10A37F?style=for-the-badge" alt="NLP and Speech" />
+  <img src="https://img.shields.io/badge/LLM%2FRAG-412991?style=for-the-badge" alt="LLM and RAG" />
+  <br/>
+  <img src="https://img.shields.io/badge/Hackathon_MVP-FFD700?style=for-the-badge" alt="Hackathon MVP" />
+  <img src="https://img.shields.io/badge/AIOps-FF6B00?style=for-the-badge" alt="AIOps" />
+  <img src="https://img.shields.io/badge/MLOps-2088FF?style=for-the-badge" alt="MLOps" />
+</p>
 
 ### Hackathon Highlights
 
