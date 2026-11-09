@@ -46,16 +46,6 @@
   <img src="https://img.shields.io/badge/MLOps-2088FF?style=for-the-badge" alt="MLOps" />
 </p>
 
-## Как я делаю AI-продукты
-
-**Начинаю с сути задачи.** Мне важно не просто применить модель, а понять, какую проблему решаем, где в данных есть ценность и что в итоге должно быть удобно пользователю.
-
-**Довожу ML до продукта.** Я не останавливаюсь на ноутбуке: собираю модель, API, интерфейс, запуск и рабочее приложение, которое можно открыть, проверить и показать.
-
-**Использую AI как усилитель разработки.** Codex, Claude Code, Gemini, n8n, Kaggle и Colab помогают мне быстрее разбираться в задаче, проверять идеи, писать код, работать с данными и доводить прототип до продукта.
-
-**Умею работать в хакатонном темпе.** Быстро выделяю главное, собираю MVP, довожу его до понятного продукта и умею показать, почему решение действительно полезно.
-
 ## Хакатоны и результаты
 
 Ключевые результаты:
@@ -94,6 +84,15 @@
 
 </details>
 
+## Как я делаю AI-продукты
+
+**Начинаю с сути задачи.** Мне важно не просто применить модель, а понять, какую проблему решаем, где в данных есть ценность и что в итоге должно быть удобно пользователю.
+
+**Довожу ML до продукта.** Я не останавливаюсь на ноутбуке: собираю модель, API, интерфейс, запуск и рабочее приложение, которое можно открыть, проверить и показать.
+
+**Использую AI как усилитель разработки.** Codex, Claude Code, Gemini, n8n, Kaggle и Colab помогают мне быстрее разбираться в задаче, проверять идеи, писать код, работать с данными и доводить прототип до продукта.
+
+**Умею работать в хакатонном темпе.** Быстро выделяю главное, собираю MVP, довожу его до понятного продукта и умею показать, почему решение действительно полезно.
 
 ---
 
@@ -112,6 +111,13 @@ I am a **4th-year student** at the Financial University under the Government of 
 **Technical areas:** Computer Vision, NLP/Speech, LLM/RAG  
 **Additional areas:** Hackathon MVPs, MLOps, AIOps
 
+### Hackathon Highlights
+
+🥇 **1st place** — ReVoice25, Lenta Tech Life Hack  
+🥈 **2nd place** — WILDHACK, Rosneft Student Hackathon, Reklamoton  
+🥉 **3rd place** — First City Hackathon of Obninsk, AtomikHack 3.0  
+🏅 **4th place, finals and special prizes** — T1, Roseltorg, MORE.Tech, FINAM x HSE AI Trade Hack, Best Hack, MGPU DATA Hackathon
+
 ### How I Build AI Products
 
 **I start with the real problem.** I care about understanding what we are solving, where the data has value and what should be useful for the end user.
@@ -123,13 +129,6 @@ I am a **4th-year student** at the Financial University under the Government of 
 **I use AI as a development multiplier.** Codex, Claude Code, Gemini, n8n, Kaggle and Colab help me research faster, test ideas, write code, work with data and turn prototypes into products.
 
 **I work well in hackathon tempo.** I can quickly identify what matters, build an MVP, package it into a clear product and explain why the solution is useful.
-
-### Hackathon Highlights
-
-🥇 **1st place** — ReVoice25, Lenta Tech Life Hack  
-🥈 **2nd place** — WILDHACK, Rosneft Student Hackathon, Reklamoton  
-🥉 **3rd place** — First City Hackathon of Obninsk, AtomikHack 3.0  
-🏅 **4th place, finals and special prizes** — T1, Roseltorg, MORE.Tech, FINAM x HSE AI Trade Hack, Best Hack, MGPU DATA Hackathon
 
 </details>
 
