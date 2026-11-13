@@ -26,10 +26,34 @@
 ## Технический стек
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,pandas,numpy,opencv,huggingface,kaggle,googlecolab,n8n,cursor,chatgpt,fastapi,docker,git,github&perline=16" alt="Python, PyTorch, scikit-learn, Pandas, NumPy, OpenCV, HuggingFace, Kaggle, Google Colab, n8n, Cursor, ChatGPT, FastAPI, Docker, Git, GitHub" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/python-dark.svg" width="48" height="48" alt="python" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/pytorch-dark.svg" width="48" height="48" alt="pytorch" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/scikitlearn-dark.svg" width="48" height="48" alt="sklearn" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/pandas-dark.svg" width="48" height="48" alt="pandas" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/numpy-dark.svg" width="48" height="48" alt="numpy" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/opencv-dark.svg" width="48" height="48" alt="opencv" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/huggingface-dark.svg" width="48" height="48" alt="huggingface" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/kaggle-dark.svg" width="48" height="48" alt="kaggle" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/googlecolab-dark.svg" width="48" height="48" alt="googlecolab" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/n8n-dark.svg" width="48" height="48" alt="n8n" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/cursor-dark.svg" width="48" height="48" alt="cursor" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/chatgpt-dark.svg" width="48" height="48" alt="chatgpt" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/fastapi.svg" width="48" height="48" alt="fastapi" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/docker.svg" width="48" height="48" alt="docker" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/git-dark.svg" width="48" height="48" alt="git" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/github-dark.svg" width="48" height="48" alt="github" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab,postgres,redis,linux,react,js,html,css,tailwind,jupyter&perline=10" alt="GitLab, PostgreSQL, Redis, Linux, React, JavaScript, HTML5, CSS3, TailwindCSS, Jupyter" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/gitlab-dark.svg" width="48" height="48" alt="gitlab" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/postgresql-dark.svg" width="48" height="48" alt="postgres" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/redis-dark.svg" width="48" height="48" alt="redis" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/linux-dark.svg" width="48" height="48" alt="linux" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/react-dark.svg" width="48" height="48" alt="react" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/javascript.svg" width="48" height="48" alt="js" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/html.svg" width="48" height="48" alt="html" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/css.svg" width="48" height="48" alt="css" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/tailwindcss-dark.svg" width="48" height="48" alt="tailwind" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/jupyter-dark.svg" width="48" height="48" alt="jupyter" />
 </p>
 
 ## Фокусные направления
@@ -126,10 +150,34 @@ I am a **4th-year student** at the Financial University under the Government of 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pytorch,sklearn,pandas,numpy,opencv,huggingface,kaggle,googlecolab,n8n,cursor,chatgpt,fastapi,docker,git,github&perline=16" alt="Python, PyTorch, scikit-learn, Pandas, NumPy, OpenCV, Hugging Face, Kaggle, Google Colab, n8n, Cursor, ChatGPT, FastAPI, Docker, Git, GitHub" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/python-dark.svg" width="48" height="48" alt="python" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/pytorch-dark.svg" width="48" height="48" alt="pytorch" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/scikitlearn-dark.svg" width="48" height="48" alt="sklearn" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/pandas-dark.svg" width="48" height="48" alt="pandas" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/numpy-dark.svg" width="48" height="48" alt="numpy" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/opencv-dark.svg" width="48" height="48" alt="opencv" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/huggingface-dark.svg" width="48" height="48" alt="huggingface" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/kaggle-dark.svg" width="48" height="48" alt="kaggle" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/googlecolab-dark.svg" width="48" height="48" alt="googlecolab" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/n8n-dark.svg" width="48" height="48" alt="n8n" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/cursor-dark.svg" width="48" height="48" alt="cursor" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/chatgpt-dark.svg" width="48" height="48" alt="chatgpt" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/fastapi.svg" width="48" height="48" alt="fastapi" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/docker.svg" width="48" height="48" alt="docker" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/git-dark.svg" width="48" height="48" alt="git" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/github-dark.svg" width="48" height="48" alt="github" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab,postgres,redis,linux,react,js,html,css,tailwind,jupyter&perline=10" alt="GitLab, PostgreSQL, Redis, Linux, React, JavaScript, HTML5, CSS3, Tailwind CSS, Jupyter" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/gitlab-dark.svg" width="48" height="48" alt="gitlab" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/postgresql-dark.svg" width="48" height="48" alt="postgres" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/redis-dark.svg" width="48" height="48" alt="redis" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/linux-dark.svg" width="48" height="48" alt="linux" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/react-dark.svg" width="48" height="48" alt="react" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/javascript.svg" width="48" height="48" alt="js" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/html.svg" width="48" height="48" alt="html" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/css.svg" width="48" height="48" alt="css" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/tailwindcss-dark.svg" width="48" height="48" alt="tailwind" />
+  <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/1c213fac65db5decb58aaa7f41db28effcb26df4/assets/jupyter-dark.svg" width="48" height="48" alt="jupyter" />
 </p>
 
 ### Focus Areas
