@@ -30,3 +30,22 @@
 | 🎖 Хакатон Т1 — финалист | [Сертификат](https://drive.google.com/file/d/1-l4cDUEwDmrTKtmAB-5ABOC5s2wnB0w-/view?usp=drivesdk) | [AutoPipe](https://github.com/Yujir0k/AutoPipe-T1) |
 | РоснефтьХак — сертификат участника | [Сертификат](https://drive.google.com/file/d/1s_07BTREJs_rADoo0NFxYQVntDq0uxgs/view?usp=drivesdk) | [Oilfield Segmentation](https://github.com/Yujir0k/Oilfield-Segmentation) |
 | Рекламатон — сертификат участника | [Сертификат](https://drive.google.com/file/d/18NXeVgzhiF0xlHYozSFUZot12lFptQpf/view?usp=drivesdk) | [Фабрика героев](https://github.com/Yujir0k/Reklamoton-2025_Fabrica-Geroev) |
+
+
+## Изображения дипломов
+
+### 🥈 Лидеры цифровой трансформации · BeeGo
+
+![Диплом BeeGo](https://raw.githubusercontent.com/Yujir0k/BeeGo/main/beego-diploma.png)
+
+### 🥈 WILDHACK · RWB Flow
+
+![Диплом команды WILDHACK](https://raw.githubusercontent.com/Yujir0k/RWB_Flow/main/docs/hackathon/certificate-r2-negative.jpg)
+
+### 🥉 АтомикХак 3.0 · AtomikAIOps
+
+![Диплом АтомикХак](https://raw.githubusercontent.com/Yujir0k/AtomikAIOps/main/docs/media/atomichack-3-place-diploma.jpg)
+
+### 🎖 Lenta Tech Life Hack · финалист
+
+![Диплом финалиста](https://raw.githubusercontent.com/Yujir0k/Polka_pod_kontrolem/main/docs/media/lenta-tech-life-hack-diploma.jpg)
