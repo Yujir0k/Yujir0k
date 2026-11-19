@@ -32,20 +32,71 @@
 | Рекламатон — сертификат участника | [Сертификат](https://drive.google.com/file/d/18NXeVgzhiF0xlHYozSFUZot12lFptQpf/view?usp=drivesdk) | [Фабрика героев](https://github.com/Yujir0k/Reklamoton-2025_Fabrica-Geroev) |
 
 
-## Изображения дипломов
+## Изображения дипломов и сертификатов
 
-### 🥈 Лидеры цифровой трансформации · BeeGo
+Сканы документов: личные дипломы, командные награды и сертификаты участника.
 
-![Диплом BeeGo](https://raw.githubusercontent.com/Yujir0k/BeeGo/main/beego-diploma.png)
+### 2026 · Лидеры цифровой трансформации — 2 место · BeeGo
 
-### 🥈 WILDHACK · RWB Flow
+<img src="assets/certificates/18_LCT_BeeGo_2nd.png" alt="2026 · Лидеры цифровой трансформации — 2 место · BeeGo" width="760" />
 
-![Диплом команды WILDHACK](https://raw.githubusercontent.com/Yujir0k/RWB_Flow/main/docs/hackathon/certificate-r2-negative.jpg)
+### 2026 · WILDHACK — 2 место команды · RWB Flow
 
-### 🥉 АтомикХак 3.0 · AtomikAIOps
+<img src="assets/certificates/15_WildHack_2nd_team.png" alt="2026 · WILDHACK — 2 место команды · RWB Flow" width="760" />
 
-![Диплом АтомикХак](https://raw.githubusercontent.com/Yujir0k/AtomikAIOps/main/docs/media/atomichack-3-place-diploma.jpg)
+### 2026 · КосмоХакатон (Ростов) — 2 место · ПолеЗрение
 
-### 🎖 Lenta Tech Life Hack · финалист
+<img src="assets/certificates/02_Kosmo_Rostov_2nd.png" alt="2026 · КосмоХакатон (Ростов) — 2 место · ПолеЗрение" width="760" />
 
-![Диплом финалиста](https://raw.githubusercontent.com/Yujir0k/Polka_pod_kontrolem/main/docs/media/lenta-tech-life-hack-diploma.jpg)
+### 2026 · ИИ-хакатон Tutu — 3 место
+
+<img src="assets/certificates/12_Tutu_3rd.png" alt="2026 · ИИ-хакатон Tutu — 3 место" width="760" />
+
+### 2026 · Kodik Launchpad — «Выбор Kodik»
+
+<img src="assets/certificates/13_Kodik_winner_RU.png" alt="2026 · Kodik Launchpad — «Выбор Kodik»" width="760" />
+
+### 2026 · КосмоХакатон (Москва) — сертификат
+
+<img src="assets/certificates/14_Kosmo_Moscow_certificate.png" alt="2026 · КосмоХакатон (Москва) — сертификат" width="760" />
+
+### 2026 · КосмоХакатон (Москва) — 4 место команды, рейтинг
+
+<img src="assets/certificates/17_Kosmo_Moscow_team_ranking.png" alt="2026 · КосмоХакатон (Москва) — 4 место команды, рейтинг" width="760" />
+
+### 2026 · Lenta Tech Life Hack — диплом финалиста
+
+<img src="assets/certificates/16_Lenta_finalist.png" alt="2026 · Lenta Tech Life Hack — диплом финалиста" width="760" />
+
+### 2025 · ReVoice25 — 1 место команды
+
+<img src="assets/certificates/06_ReVoice_1st_team.png" alt="2025 · ReVoice25 — 1 место команды" width="760" />
+
+### 2025 · АтомикХак 3.0 — 3 место
+
+<img src="assets/certificates/11_AtomikHack_3rd.png" alt="2025 · АтомикХак 3.0 — 3 место" width="760" />
+
+### 2025 · Первый городской хакатон Обнинска — 3 место команды
+
+<img src="assets/certificates/07_Obninsk_3rd_team.png" alt="2025 · Первый городской хакатон Обнинска — 3 место команды" width="760" />
+
+### 2025 · DATA-хакатон МГПУ — спецприз команды «Фабрика данных»
+
+<img src="assets/certificates/08_DataHack_special_prize_team_cropped.png" alt="2025 · DATA-хакатон МГПУ — спецприз команды «Фабрика данных»" width="760" />
+
+### 2025 · MORE.Tech ВТБ — сертификат финалиста
+
+<img src="assets/certificates/01_MORETech_finalist.png" alt="2025 · MORE.Tech ВТБ — сертификат финалиста" width="760" />
+
+### 2025 · Хакатон Т1 — сертификат финалиста
+
+<img src="assets/certificates/05_T1_finalist.png" alt="2025 · Хакатон Т1 — сертификат финалиста" width="760" />
+
+### 2025 · РоснефтьХак — сертификат участника
+
+<img src="assets/certificates/04_Rosneft_participation.png" alt="2025 · РоснефтьХак — сертификат участника" width="760" />
+
+### 2025 · Рекламатон — сертификат участника
+
+<img src="assets/certificates/10_Reklamaton_participation.png" alt="2025 · Рекламатон — сертификат участника" width="760" />
+
